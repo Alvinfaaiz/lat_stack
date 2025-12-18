@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1766018668 source:d:\c++\lat\stack\anotherstack\buku\main.cpp
+	"header.h"
+	<iostream>
+
+1766018637 d:\c++\lat\stack\anotherstack\buku\header.h
+	<iostream>
+
