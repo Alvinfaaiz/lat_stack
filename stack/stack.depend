@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1766011403 source:d:\c++\lat\stack\stack\sources.cpp
+	"header.h"
+	<iostream>
+
+1766010985 d:\c++\lat\stack\stack\header.h
+	<iostream>
+
+1766011126 source:d:\c++\lat\stack\stack\main.cpp
+	"header.h"
+	<iostream>
+
